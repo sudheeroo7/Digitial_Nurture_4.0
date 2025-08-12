@@ -1,0 +1,11 @@
+*   430c1a8 (HEAD -> master) lab4: resolved merge conflict in hello.xml
+|\  
+| * 1351f7a (GitWork) lab4: hello.xml in branch
+* | 0018783 lab4: hello.xml in master
+|/  
+*   8f637d4 lab3: merge GitNewBranch into master/main
+|\  
+| * 277fe40 (GitNewBranch) lab3: add branchfile in GitNewBranch
+|/  
+* 9bded87 lab2: add .gitignore to ignore logs
+* 113b0e4 lab1: add welcome.txt
